@@ -1,0 +1,14 @@
+.btn-success
+{
+    font-size: 30px;
+}
+body
+{
+    background: url("https://png.pngtree.com/background/20210711/original/pngtree-autumn-fashion-single-product-promotion-simple-beige-background-picture-image_1130123.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+canvas
+{
+    border: 2px solid black;
+}
